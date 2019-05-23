@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create the first version every file in the repository. You need it for versioning the files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is where you add the files. Working directory  are every file. 
