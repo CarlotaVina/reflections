@@ -18,3 +18,8 @@ Clones allow to copy a local repository in another local repository.
 Branches are always in a local repository.
 
 You use fork when you want to clone a Github repository and clone when you want to clone a local repository
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can synchronize a remote repository locally and you can do modifications locally
