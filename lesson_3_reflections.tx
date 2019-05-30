@@ -27,3 +27,7 @@ You can synchronize a remote repository locally and you can do modifications loc
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I think to collaborate you have to use a repository where to manage the different versions of programs. Without using contro version program you have to send the programs by email each time you do a modification. Using git and github is easier to communicate the changes other people. Manage conflicts can be the hardest.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A separate branch is useful when you want to develop a new functionality. If you develop in master you don't need to merge any branch. If you develop in a separate branch the master branch doesn't change and it is stable
